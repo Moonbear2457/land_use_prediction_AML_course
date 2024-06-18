@@ -1,10 +1,6 @@
 # land_use_prediction_AML_course
 Final project for 2023 CAS in Advanced Machine Learning at the University of Bern. Predicts land use changes in the Peruvian Amazon using Markov Chain transition probabilities. Analyzes observed changes to forecast future states. Utilizes ESA CCI land cover data and requires a high-performance system for computation
 
-## Land Use Prediction
-
-This repository contains the coursework for the AML course.
-
 ## Notebook
 
 Click the badge below to open the `aml_final_markov.ipynb` notebook in Google Colab:
